@@ -1,6 +1,10 @@
 # Sauter-University
 Projetos realizados durante o bootcamp desenvolvido pela Sauter University
 
+# Desafio_final_gcp.ipynb // Desafio_final_python.ipynb
+Desafio Técnico - Construindo um Modelo de Regressão Linear
+para Previsão de Preços de Airbnbs no Rio de Janeiro .
+
 # Analise_exploratoria.ipynb
 Analisando dados de um dataframe com informações sobre casos de Covid-19
 
