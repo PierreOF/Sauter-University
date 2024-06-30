@@ -1,7 +1,7 @@
 # Sauter-University
 Projetos realizados durante o bootcamp desenvolvido pela Sauter University
 
-# analise_exploratoria.ipynb
+# Analise_exploratoria.ipynb
 Analisando dados de um dataframe com informações sobre casos de Covid-19
 
 # Tratamento_de_dados.ipynb
