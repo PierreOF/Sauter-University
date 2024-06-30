@@ -1,6 +1,8 @@
 # Sauter-University
 Projetos realizados durante o bootcamp desenvolvido pela Sauter University
 
+# Tratamento_de_dados.ipynb
+
 WEEK 1 - SAUTER CHALLENGE
 Tratamento de Dados de Avaliações de Aplicativo
 Objetivo: Lidar com dados provenientes de avaliações de aplicativos da App Store e/ou Google Play Store.
